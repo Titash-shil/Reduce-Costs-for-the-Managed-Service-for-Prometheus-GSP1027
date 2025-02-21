@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Securing-Container-Builds-GSP1185/refs/heads/main/qwiklab_explorers_gsp1185.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Reduce-Costs-for-the-Managed-Service-for-Prometheus-GSP1027/refs/heads/main/qwiklab_explorers_gsp1027.sh
 
-sudo chmod +x qwiklab_explorers_gsp1185.sh
+sudo chmod +x qwiklab_explorers_gsp1027.sh
 
-./qwiklab_explorers_gsp1185.sh
+./qwiklab_explorers_gsp1027.sh
 ```
 ---
 
